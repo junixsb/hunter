@@ -1,0 +1,2 @@
+# hunter
+Earn satoshi
